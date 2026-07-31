@@ -133,7 +133,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 flat-nav">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
           <a href="#" className="flex items-center gap-1">
-            <Image src="/logo-v2.jpg" alt="Earlio Logo" width={36} height={36} className="shrink-0 object-contain -mr-2" />
+            <Image src="/logo-v2.png" alt="Earlio Logo" width={36} height={36} className="shrink-0 object-contain -mr-2" />
             <span className="text-lg font-bold tracking-tight text-[#F7F8FA]">Earlio</span>
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-[#707B90]" aria-label="Main Navigation">
@@ -692,7 +692,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-8 border-b border-[#1A2234] pb-8 mb-8">
             <div>
               <div className="flex items-center gap-1">
-                <Image src="/logo-v2.jpg" alt="Earlio Logo" width={32} height={32} className="shrink-0 object-contain -mr-1.5" />
+                <Image src="/logo-v2.png" alt="Earlio Logo" width={32} height={32} className="shrink-0 object-contain -mr-1.5" />
                 <span className="text-base font-bold text-[#F7F8FA]">Earlio</span>
               </div>
               <p className="text-xs text-[#707B90] mt-3 italic font-semibold">Learning should lead somewhere.</p>
