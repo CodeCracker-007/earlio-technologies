@@ -34,9 +34,9 @@ export const metadata: Metadata = {
     description: "The complete journey from skill acquisition to real economic opportunity, designed as one system.",
   },
   icons: {
-    icon: "/icon.png?v=3",
-    apple: "/apple-icon.png?v=3",
-    shortcut: "/favicon.ico?v=3",
+    icon: "/icon.png?v=4",
+    apple: "/apple-icon.png?v=4",
+    shortcut: "/favicon.ico?v=4",
   },
   robots: {
     index: true,
